@@ -1,0 +1,245 @@
+┌ Info: 2025-09-05 16:49:26 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-05 16:49:27 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:49:31 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-05 16:49:31 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Error: 2025-09-05 16:49:38 MethodError: no method matching append!(::ParsedHTMLString)
+│ The function `append!` exists, but no method is defined for this combination of argument types.
+│ 
+│ Closest candidates are:
+│   append!(!Matched::DataFrames.DataFrame, !Matched::DataFrames.AbstractDataFrame; cols, promote)
+│    @ DataFrames ~/.julia/packages/DataFrames/C5AEe/src/dataframe/insertion.jl:93
+│   append!(!Matched::DataFrames.DataFrame, !Matched::Any; cols, promote)
+│    @ DataFrames ~/.julia/packages/DataFrames/C5AEe/src/dataframe/insertion.jl:97
+│   append!(!Matched::DataFrames.DataFrame, Any...; cols, promote)
+│    @ DataFrames ~/.julia/packages/DataFrames/C5AEe/src/dataframe/insertion.jl:106
+│   ...
+│ 
+│ Stacktrace:
+│   [1] navButton(display::Vector{String}, adrss::Vector{String})
+│     @ Main.App.Index ~/Documents/julia_web_server/template/TheForest/partials/main_partials.jl:19
+│   [2] topBar(display::Vector{String}, adrss::Vector{String}, topbar_title::String)
+│     @ Main.App.Index ~/Documents/julia_web_server/template/TheForest/partials/main_partials.jl:9
+│   [3] ui()
+│     @ Main.App.Index ~/Documents/julia_web_server/template/TheForest/Index.jl:10
+│   [4] html!(data::typeof(Main.App.Index.ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main.App.Index.var"Main.App.Index_ReactiveModel!_1"})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/y1eGj/src/renderers/Html.jl:597
+│   [5] (::Stipple.Pages.var"#6#7"{typeof(Main.App.Index.ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/hze8v/src/Pages.jl:90
+│   [6] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/y1eGj/src/Router.jl:547
+│   [7] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/y1eGj/src/Router.jl:172
+│   [8] route_request
+│     @ ~/.julia/packages/Genie/y1eGj/src/Router.jl:147 [inlined]
+│   [9] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:300
+│  [10] handle_request
+│     @ ~/.julia/packages/Genie/y1eGj/src/Server.jl:292 [inlined]
+│  [11] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/macros.jl:123
+│  [12] #invokelatest#2
+│     @ ./essentials.jl:1055 [inlined]
+│  [13] invokelatest
+│     @ ./essentials.jl:1052 [inlined]
+│  [14] #153
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+│  [16] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:450 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:449 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:344
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/y1eGj/src/Server.jl:342 [inlined]
+│  [21] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:313
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:333
+│  [23] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:124
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:1055 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:1052 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/JcAHX/src/Servers.jl:469
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/JcAHX/src/Servers.jl:401
+│ 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:356
+┌ Info: 2025-09-05 16:50:39 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-05 16:50:39 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:51:51 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:51:51 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:52:31 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:52:31 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Error: 2025-09-05 16:52:43 MethodError: no method matching append!(::ParsedHTMLString)
+│ The function `append!` exists, but no method is defined for this combination of argument types.
+│ 
+│ Closest candidates are:
+│   append!(!Matched::DataFrames.DataFrame, !Matched::DataFrames.AbstractDataFrame; cols, promote)
+│    @ DataFrames ~/.julia/packages/DataFrames/C5AEe/src/dataframe/insertion.jl:93
+│   append!(!Matched::DataFrames.DataFrame, !Matched::Any; cols, promote)
+│    @ DataFrames ~/.julia/packages/DataFrames/C5AEe/src/dataframe/insertion.jl:97
+│   append!(!Matched::DataFrames.DataFrame, Any...; cols, promote)
+│    @ DataFrames ~/.julia/packages/DataFrames/C5AEe/src/dataframe/insertion.jl:106
+│   ...
+│ 
+│ Stacktrace:
+│   [1] navButton(display::Vector{String}, adrss::Vector{String})
+│     @ Main.App.Index ~/Documents/julia_web_server/template/TheForest/partials/main_partials.jl:19
+│   [2] topBar(display::Vector{String}, adrss::Vector{String}, topbar_title::String)
+│     @ Main.App.Index ~/Documents/julia_web_server/template/TheForest/partials/main_partials.jl:9
+│   [3] ui()
+│     @ Main.App.Index ~/Documents/julia_web_server/template/TheForest/Index.jl:10
+│   [4] html!(data::typeof(Main.App.Index.ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main.App.Index.var"Main.App.Index_ReactiveModel!_1"})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/y1eGj/src/renderers/Html.jl:597
+│   [5] (::Stipple.Pages.var"#6#7"{typeof(Main.App.Index.ui), String, Module, Int64, Int64, Module, Bool, @Kwargs{}, Page})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/hze8v/src/Pages.jl:90
+│   [6] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/y1eGj/src/Router.jl:547
+│   [7] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/y1eGj/src/Router.jl:172
+│   [8] route_request
+│     @ ~/.julia/packages/Genie/y1eGj/src/Router.jl:147 [inlined]
+│   [9] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:300
+│  [10] handle_request
+│     @ ~/.julia/packages/Genie/y1eGj/src/Server.jl:292 [inlined]
+│  [11] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/macros.jl:123
+│  [12] #invokelatest#2
+│     @ ./essentials.jl:1055 [inlined]
+│  [13] invokelatest
+│     @ ./essentials.jl:1052 [inlined]
+│  [14] #153
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+│  [16] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:450 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:449 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.11.6+0.x64.linux.gnu/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:344
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/y1eGj/src/Server.jl:342 [inlined]
+│  [21] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:313
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:333
+│  [23] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/y1eGj/src/Server.jl:124
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:1055 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:1052 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/JcAHX/src/Servers.jl:469
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/JcAHX/src/Servers.jl:401
+│ 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:356
+┌ Info: 2025-09-05 16:52:55 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-05 16:53:06 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-05 16:53:07 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:53:11 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-05 16:53:11 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-05 16:55:02 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-05 16:55:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:55:02 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:55:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:55:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:55:33 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:55:39 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:55:49 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:55:49 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:55:49 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:55:51 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:55:53 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:56:14 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-05 16:56:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:56:19 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-05 16:56:19 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-05 16:56:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:56:35 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:58:54 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-05 16:58:59 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:59:06 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 16:59:31 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-05 16:59:44 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-05 16:59:45 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 16:59:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-05 16:59:49 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-05 17:00:34 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 17:00:34 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 17:00:47 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 17:00:47 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 17:00:51 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-05 17:00:51 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 17:01:33 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 17:01:43 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 17:01:54 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-05 17:02:22 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
