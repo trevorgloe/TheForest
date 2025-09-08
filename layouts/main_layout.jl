@@ -23,7 +23,9 @@ function pageLayout(title::String)
       ._genie .row .col-12 { width:50%; margin:auto; }
       [v-cloak] { display: none; }
     </style>
-		<link rel="icon" type="image/jpg" sizes="32x32" href="/fav.jpg">
+	<link rel="icon" type="image/jpg" sizes="32x32" href="/fav.jpg">
+        <!-- Including mathjax script for latex typesetting -->
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
   </head>
   <body>
     <div class='container'>

@@ -483,3 +483,5 @@
 └ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
 ┌ Info: 2025-09-06 17:23:30 Calling finalizers
 └ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540
+┌ Info: 2025-09-07 00:05:32 Calling finalizers
+└ @ Stipple /home/trevor/.julia/packages/Stipple/hze8v/src/Stipple.jl:540

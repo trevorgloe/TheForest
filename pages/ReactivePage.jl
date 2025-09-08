@@ -1,8 +1,9 @@
-module MarkdownPage
+module ReactivePage
 using GenieFramework
 using Revise
-include("partials/main_partials.jl")
-include("layouts/main_layout.jl")
+include("../partials/main_partials.jl")
+include("../layouts/main_layout.jl")
+
 
 @app begin
 
@@ -16,7 +17,7 @@ function ui()
                                 [
                                 Html.div(class="",
                                         [
-                                                h1("Displaying markdown on a page")
+                                                h1("Reactive apps using Stipple.jl")
                                         ]
                                 )
                         ]
@@ -25,6 +26,6 @@ function ui()
         )
 end
 
-@page("/markdown", ui, layout = pageLayout("Markdown"))
+@page("/reactive_apps", ui, layout = pageLayout("Reactive Apps"))
 
 end

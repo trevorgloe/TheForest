@@ -1,14 +1,11 @@
-module Index
+module Plotting
 using GenieFramework
 using Revise
-include("partials/main_partials.jl")
-Revise.includet("partials/main_partials.jl")
-include("layouts/main_layout.jl")
+include("../partials/main_partials.jl")
+include("../layouts/main_layout.jl")
 
 @app begin
-        @in left_drawer_open = true
-        @in ministate = true
-        @in selected_component = "badge"
+
 end
 
 function ui()
@@ -19,7 +16,7 @@ function ui()
                                 [
                                 Html.div(class="",
                                         [
-                                                h1("TheForest Website Template")
+                                                h1("Plotting using Stipple.jl")
                                         ]
                                 )
                         ]
@@ -28,5 +25,6 @@ function ui()
         )
 end
 
-@page("/", ui, layout = pageLayout("Home"))
+@page("/plotting", ui, layout = pageLayout("Plotting"))
+
 end
