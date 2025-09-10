@@ -69,13 +69,13 @@ function pageLayout(title::String)
 
                     if (!block.classList.contains('hljs')) {
                         //alert("Found a code block");
-                        alert(
-                            'className: ' + block.className +
-                            ' tagName: ' + block.tagName +
-                            ' textContent: ' + block.textContent +
-                            ' parent tag: ' + (block.parentElement ? block.parentElement.tagName : 'none') +
-                            ' id: ' + block.id
-                        );
+                        //alert(
+                        //    'className: ' + block.className +
+                        //    ' tagName: ' + block.tagName +
+                        //    ' textContent: ' + block.textContent +
+                        //    ' parent tag: ' + (block.parentElement ? block.parentElement.tagName : 'none') +
+                        //    ' id: ' + block.id
+                        //);
                         hljs.highlightElement(block);
                     }
                 });

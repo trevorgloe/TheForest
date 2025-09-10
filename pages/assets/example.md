@@ -5,8 +5,8 @@ Here we can put anything that you would like to put into markdown. Here is the E
 \]
 
 And here is some syntax-highlighted code
-```
-#include<iostream>
+```cpp
+#include&ltiostream&gt
 
 int main() {
     std::cout << "Now we've written some C++ in our website!";
@@ -14,7 +14,7 @@ int main() {
 }
 
 void print_msg(std::string adj) {
-    std::cout << "I am very " << adj << "today";
+    std::cout << "I am very " << adj << " today";
 }
 ```
 
@@ -31,6 +31,7 @@ b = randn(20)
 
 Additional languages for syntax highlighting can be added by editing the layout template function in `layouts/main_layout.jl`. Near the top of that function is the script tag 
 ```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/julia.min.js"></script>
+&ltscript src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/julia.min.js"&gt&lt/script&gt
 ```
+This script adds the julia language to the languages that highlight.js supports in syntax highlighting. Note that with any of the scripts that have `&lt`, or `&gt`, I am escaping the characters using &amplt or &ampgt so the html does not interpret the tag. More information on the highlighting can be found at [highlight.js](https://highlightjs.org/)
 
