@@ -1,0 +1,802 @@
+┌ Info: 2025-09-09 17:01:25 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:01:27 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:01:27 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:01:27 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:01:27 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:01:27 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:01:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:01:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:01:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:01:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:01:31 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:01:31 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:03:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:03:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:03:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:03:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:03:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:31 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:31 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:31 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:31 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:31 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:04:45 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:05:00 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:05:01 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:05:01 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:05:01 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:05:02 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:05:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:05:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:05:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:05:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:05:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:05:05 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:05:06 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:06:41 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:06:41 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:06:41 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:06:41 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:06:41 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:06:49 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:07:03 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:07:04 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:07:05 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:07:05 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:07:05 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:07:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:07:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:07:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:07:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:07:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:07:10 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:07:10 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Error: 2025-09-09 17:11:30 Failed to revise /home/trevor/Documents/julia_web_server/template/TheForest/pages/MarkdownPage.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ /home/trevor/Documents/julia_web_server/template/TheForest/pages/MarkdownPage.jl:29:41\n                                                code(\"#iclude\")\n                                        ]\n#                                       └ ── Expected `)`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module MarkdownPage\nusing GenieFramework\nusing StippleMarkdown\nusing Revise\ninclude(\"../partials/main_partials.jl\")\ninclude(\"../layouts/main_layout.jl\")\n\n@app begin\n\nend\n\n# Helper function to read in markdown from a file\nfunction readMD(filename::String)\n        read(filename, String)\nend\n\nfunction ui()\n        StippleUI.layout(view=\"hHh Lpr lff\",\n                [\n                        topBar(),\n                        page_container(\n                                [\n                                Html.div(class=\"\",\n                                        [\n                                                h1(\"Displaying markdown on a page\"),\n                                                # Note that file name is relative to root directory, not this file\n                                                markdowntext(readMD(\"pages/assets/example.md\"),\n                                                code(\"#iclude\")\n                                        ]\n                                )\n                        ]\n                        )\n                ]\n        )\nend\n\n@page(\"/markdown\", ui, layout = pageLayout(\"Markdown\"))\n\nend\n", 0, "/home/trevor/Documents/julia_web_server/template/TheForest/pages/MarkdownPage.jl", 1, [1, 21, 42, 64, 77, 117, 154, 155, 166, 167, 171, 172, 222, 256, 287, 291, 292, 306, 351, 369, 403, 443, 477, 528, 570, 655, 770, 866, 930, 972, 1006, 1032, 1058, 1076, 1086, 1090, 1091, 1147, 1148, 1152]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(970, 969, :error, "Expected `)`")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007e8acf260957, Ptr{Nothing} @0x00007e8acf270324, Ptr{Nothing} @0x00007e8acf26fdec, Ptr{Nothing} @0x00007e8acf270f57, Ptr{Nothing} @0x00007e8acf271afd, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise /home/trevor/.julia/packages/Revise/PSzoa/src/packagedef.jl:743
+┌ Warning: 2025-09-09 17:11:31 The running code does not match the saved version for the following files:
+│ 
+│   /home/trevor/Documents/julia_web_server/template/TheForest/pages/MarkdownPage.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/trevor/.julia/packages/Revise/PSzoa/src/packagedef.jl:859
+┌ Info: 2025-09-09 17:19:50 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:20:03 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:20:04 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:20:04 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:20:04 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:20:04 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:20:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:20:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:20:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:20:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:20:05 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:20:09 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:20:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:22:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:22:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:22:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:22:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:22:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:23:18 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:23:30 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:23:32 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:23:32 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:23:32 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:23:32 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:23:32 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:23:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:23:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:23:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:23:33 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:23:35 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:23:35 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:26:30 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:26:30 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:26:30 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:26:30 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:26:30 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:26:56 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:27:08 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:27:09 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:27:09 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:27:09 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:27:09 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:27:10 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:27:10 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:27:10 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:27:10 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:27:10 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:27:13 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:27:13 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:28:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:42 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:28:53 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:28:55 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:28:55 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:28:55 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:28:55 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:28:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:28:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:28:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:31:20 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:20 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:20 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:20 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:20 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:23 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:23 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:23 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:23 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:23 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:29 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:31:40 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:31:42 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:31:42 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:31:42 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:31:42 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:31:42 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:31:46 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:31:47 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:33:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:33:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:33:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:33:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:33:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:28 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:39 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:35:52 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:35:53 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:35:53 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:35:53 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:35:53 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:35:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:54 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:35:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:35:58 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:37:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:08 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:37:20 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:37:21 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:37:21 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:37:21 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:37:21 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:37:22 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:22 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:22 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:22 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:22 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:37:27 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:37:27 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:41:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:38 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:38 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:38 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:38 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:38 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:41:53 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:42:04 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:42:06 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:42:06 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:42:06 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:42:06 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:42:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:42:07 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:42:07 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:42:07 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:42:07 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:42:10 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:42:10 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:43:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:41 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:43:53 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:43:54 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:43:54 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:43:54 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:43:54 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:43:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:55 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:43:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:43:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:45:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:45:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:45:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:45:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:45:53 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:45:58 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:46:10 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:46:12 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:46:12 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:46:12 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:46:12 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:46:12 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:46:12 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:46:12 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:46:12 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:46:12 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:46:14 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:46:15 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:47:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:22 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:47:33 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:47:34 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:47:35 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:47:35 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:47:35 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:47:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:47:39 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:47:39 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:49:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:06 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:22 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:49:33 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:49:35 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:49:35 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:49:35 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:49:35 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:49:35 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:36 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:49:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:49:38 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:53:24 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:53:24 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:53:24 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:53:24 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:53:24 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:02 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:13 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:13 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:13 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:13 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:13 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:58 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:58 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:58 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:58 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:54:58 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:55:03 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:55:14 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:55:16 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:55:16 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:55:16 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:55:16 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:55:16 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:55:17 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:55:17 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:55:17 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:55:17 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:55:35 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:55:35 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 17:58:08 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:08 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:08 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:08 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:08 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:21 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:21 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:21 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:21 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:21 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:25 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 17:58:37 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:58:39 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:58:39 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:58:39 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:58:39 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 17:58:39 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:39 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:39 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:39 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:39 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 17:58:43 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 17:58:44 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 18:00:26 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:26 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:26 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:26 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:26 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:29 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 18:00:41 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:00:43 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:00:43 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:00:43 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:00:43 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:00:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:43 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:00:47 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 18:00:47 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 18:04:47 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:04:47 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:04:47 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:04:47 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:04:47 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:04:52 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:409
+┌ Info: 2025-09-09 18:05:43 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:05:44 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:05:44 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:05:44 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:05:44 Watching ["/home/trevor/Documents/julia_web_server/template/TheForest"]
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-09-09 18:05:45 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:05:45 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:05:45 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:05:45 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:05:45 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:05:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/trevor/.julia/packages/Genie/y1eGj/src/Server.jl:182
+┌ Info: 2025-09-09 18:05:49 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/trevor/.julia/packages/HTTP/JcAHX/src/Servers.jl:382
+┌ Info: 2025-09-09 18:07:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:07:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:07:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:07:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-09-09 18:07:03 Autoreloading
+└ @ GenieAutoReload /home/trevor/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22

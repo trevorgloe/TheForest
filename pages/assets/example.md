@@ -5,7 +5,7 @@ Here we can put anything that you would like to put into markdown. Here is the E
 \]
 
 And here is some syntax-highlighted code
-```cpp
+```
 #include<iostream>
 
 int main() {
