@@ -28,3 +28,9 @@ b = randn(20)
 # lets see how long it takes to solve this linear system
 @time x = A \ b
 ```
+
+Additional languages for syntax highlighting can be added by editing the layout template function in `layouts/main_layout.jl`. Near the top of that function is the script tag 
+```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/julia.min.js"></script>
+```
+
