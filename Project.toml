@@ -1,6 +1,8 @@
 [deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
 GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+PlotlyBase = "a03496cd-edff-5a9b-9e67-9cda94a718b5"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 Stipple = "4acbeb90-81a0-11ea-1966-bdaff8155998"
 StippleMarkdown = "2b41e42f-53d3-436c-aed0-ebb7c31b58f1"
