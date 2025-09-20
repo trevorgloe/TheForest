@@ -2,7 +2,7 @@
 
 julia_version = "1.11.6"
 manifest_format = "2.0"
-project_hash = "72d5a945942fc94fab0402abccb2b5cb07974470"
+project_hash = "fca9e589fa603ed19b362550846cda294d75322e"
 
 [[deps.ArgParse]]
 deps = ["Logging", "TextWrap"]
@@ -131,9 +131,9 @@ version = "1.16.0"
 
 [[deps.DataFrames]]
 deps = ["Compat", "DataAPI", "DataStructures", "Future", "InlineStrings", "InvertedIndices", "IteratorInterfaceExtensions", "LinearAlgebra", "Markdown", "Missings", "PooledArrays", "PrecompileTools", "PrettyTables", "Printf", "Random", "Reexport", "SentinelArrays", "SortingAlgorithms", "Statistics", "TableTraits", "Tables", "Unicode"]
-git-tree-sha1 = "a37ac0840a1196cd00317b57e39d6586bf0fd6f6"
+git-tree-sha1 = "c967271c27a95160e30432e011b58f42cd7501b5"
 uuid = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-version = "1.7.1"
+version = "1.8.0"
 
 [[deps.DataStructures]]
 deps = ["Compat", "InteractiveUtils", "OrderedCollections"]
