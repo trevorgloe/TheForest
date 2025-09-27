@@ -6,7 +6,6 @@ using Revise
 Revise.includet("pages/Index.jl")
 Revise.includet("pages/MarkdownPage.jl")
 Revise.includet("pages/Plotting.jl")
-Revise.includet("pages/ReactivePage.jl")
 
 # Other dependences we'd like Revise to track:
 Revise.includet("partials/main_partials.jl")

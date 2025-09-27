@@ -7,7 +7,7 @@ using GenieFramework
 function topBar()
         # adds a top bar which stays put while scrolling with a navigation button
         quasar(:header, toolbar([
-                navButton(["Home", "Markdown", "Plotting", "Reactive Apps"], ["", "markdown", "plotting", "reactive_apps"]),
+                navButton(["Home", "Markdown", "Plotting"], ["", "markdown", "plotting"]),
                 toolbartitle("TheForest Template - A Stipple.jl Website Template")
         ]))
 end

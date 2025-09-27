@@ -1,0 +1,46 @@
+:root {
+	--background-dark-1: #2d6a4f;
+	--background-light-1: #40916c;
+	--background-dark-2: #1b4332;
+	--text-1: #d8f3dc;
+	--header-1: #936639;
+	--header-2: #a68a64;
+	--accent-1: #95d5b2;
+}
+
+h1 {
+	color: var(--header-1) !important;
+}
+
+h2 {
+	color: var(--header-2) !important;
+}
+
+ul {
+	color: var(--text-1)
+}
+
+code {
+	background-color: var(--background-light-1)
+}
+
+.q-page-container {
+	background-color: var(--background-dark-2);
+	text-color: var(--text-1) !important;
+}
+
+.q-page-container p {
+	color: var(--text-1);
+}
+
+.q-header {
+	background-color: var(--background-light-1) !important;
+}
+
+.nav-dropdown {
+	background-color: var(--accent-1) !important;
+}
+
+.container {
+	background-color: var(--background-dark-2);
+}
