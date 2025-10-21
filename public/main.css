@@ -1,11 +1,13 @@
 :root {
-	--background-dark-1: #2d6a4f;
-	--background-light-1: #40916c;
+	--background-dark-1: #324d3e;
+	--background-light-1: #d9e4d7;
 	--background-dark-2: #1b4332;
-	--text-1: #d8f3dc;
-	--header-1: #936639;
-	--header-2: #a68a64;
-	--accent-1: #95d5b2;
+	/* --text-1: #d8f3dc; */
+	--text-1: #151501;
+	--header-1: #230F08;
+	--header-2: #34170D;
+	--accent-1: #8ea48b;
+	--accent-2: #becfbb;
 }
 
 h1 {
@@ -16,25 +18,30 @@ h2 {
 	color: var(--header-2) !important;
 }
 
+h3 {
+	color: var(--header-2) !important;
+}
+
 ul {
 	color: var(--text-1)
 }
 
 code {
-	background-color: var(--background-light-1)
+	background-color: var(--accent-2) !important;
 }
 
 .q-page-container {
-	background-color: var(--background-dark-2);
+	background-color: var(--background-light-1);
 	text-color: var(--text-1) !important;
 }
 
 .q-page-container p {
-	color: var(--text-1);
+	color: var(--text-1) !important;
 }
 
 .q-header {
-	background-color: var(--background-light-1) !important;
+	background-color: var(--background-dark-1) !important;
+	color: var(--background-light-1) !important;
 }
 
 .nav-dropdown {
@@ -42,5 +49,9 @@ code {
 }
 
 .container {
-	background-color: var(--background-dark-2);
+	background-color: var(--background-light-1);
+}
+
+.st-module {
+	background-color: var(--accent-2) !important;
 }
