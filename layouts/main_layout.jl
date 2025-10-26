@@ -23,7 +23,7 @@ function pageLayout(title::String)
       ._genie .row .col-12 { width:50%; margin:auto; }
       [v-cloak] { display: none; }
     </style>
-	<link rel="icon" type="image/jpg" sizes="32x32" href="/fav.jpg">
+	<link rel="icon" type="image/png" sizes="32x32" href="/theforest_icon.png">
         <!-- Including mathjax script for latex typesetting -->
         <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/default.min.css">
